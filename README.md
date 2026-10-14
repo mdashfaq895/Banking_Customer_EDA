@@ -68,7 +68,3 @@ The goal of this project is to understand who the bank's customers are, how thei
 2. Open `Banking_EDA.ipynb` in Google Colab or Jupyter Notebook
 3. Make sure `Banking.csv` is in the same folder (or upload it in Colab)
 4. Run all cells
-
-## Author
-
-**Mohammad Ashfaq**
